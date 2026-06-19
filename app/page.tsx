@@ -24,21 +24,21 @@ const projetos = [
     descricao: "Aplicação criada usando python.",
     tags: ["Python", "Conversor de Moedas", "currency converter"],
     github: "https://github.com/AuryLima/CONVERSOR-DE-MOEDAS",
-    //demo: "#",
+    demo: "#",
   },
   {
     titulo: "Controle de Gastos",
     descricao: "Aplicação criada para o usuario controlar seus gastos mensais.",
     tags: ["Python", "Controle de Gastos", "Expense Control"],
     github: "https://github.com/AuryLima/CONTROLE-GASTOS",
-    //demo: "#",
+    demo: "#",
   },
   {
     titulo: "Calculadora de Juros Simples",
     descricao: "Aplicação criada para calcular juros simples.",
     tags: ["Python", "Calculadora", "Simple interest"],
     github: "https://github.com/AuryLima/CALCULADORA-JUROS-SIMPLES",
-    //demo: "#",
+    demo: "#",
   },
 ];
 
